@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/arsenopoulos-kommotiki-icon.svg"
+ },
+ "source_md5": "42cac3de8eb720f041b748ee0a47cb80",
+ "version": "340ce150",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "4edfdd6b7b7498f1a5fa479dedb3628d"
+ ],
+ "made": "2026-11-18"
+}
